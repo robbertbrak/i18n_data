@@ -105,7 +105,7 @@ IM;;Man
 IN;;India
 IO;;Det britiske territoriet i Indiahavet
 IE;;Irland
-IR;;Iran, Den islamske republikk
+IR;;Iran
 IQ;;Irak
 IS;;Island
 IL;;Israel
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Kitts og Nevis
 KR;;Sør-Korea
 KW;;Kuwait
-LA;;Den demokratiske folkerepublikk Laos
+LA;;Laos
 LB;;Libanon
 LR;;Liberia
 LY;;Libya
@@ -212,7 +212,7 @@ SE;;Sverige
 SZ;;Eswatini (tidligere Swasiland)
 SX;;Sint Maarten (nederlandsk del)
 SC;;Seychellene
-SY;;Den arabiske republikk Syria
+SY;;Syria
 TC;;Turks- og Caicosøyene
 TD;;Tsjad
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Øst-Timor
 TO;;Tonga
 TT;;Trinidad og Tobago
 TN;;Tunisia
-TR;;Türkiye
+TR;;Tyrkia
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzania

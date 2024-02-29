@@ -5,7 +5,7 @@ AI;;Anguilla
 AX;;Illes Aland
 AL;;Albània
 AD;;Andorra
-AE;;Unió dels Emirats Àrabs
+AE;;Emirats Àrabs Units
 AR;;Argentina
 AM;;Armènia
 AS;;Samoa Americana
@@ -14,7 +14,7 @@ TF;;Territoris Francesos del Sud
 AG;;Antigua i Barbuda
 AU;;Austràlia
 AT;;Àustria
-AZ;;Azerbaitjan
+AZ;;Azerbaidjan
 BI;;Burundi
 BE;;Bèlgica
 BJ;;Benín
@@ -28,7 +28,7 @@ BA;;Bòsnia i Hercegovina
 BL;;Saint Barthélemy
 BY;;Bielorússia
 BZ;;Belize
-BM;;Bermuda
+BM;;Bermudes
 BO;;Bolívia
 BR;;Brasil
 BB;;Barbados
@@ -122,7 +122,7 @@ KI;;Kiribati
 KN;;Saint Christopher i Nevis
 KR;;Corea del Sud
 KW;;Kuwait
-LA;;República Democràtica Popular de Laos
+LA;;Laos
 LB;;Líban
 LR;;Libèria
 LY;;Líbia
@@ -148,7 +148,7 @@ MT;;Malta
 MM;;Myanmar
 ME;;Montenegro
 MN;;Mongòlia
-MP;;Illes Marianes del Nord
+MP;;Illes Mariannes Septentrionals
 MZ;;Moçambic
 MR;;Mauritània
 MS;;Montserrat
@@ -185,10 +185,10 @@ PY;;Paraguai
 PS;;Palestina, Estat de
 PF;;Polinèsia francesa
 QA;;Qatar
-RE;;Reunió
+RE;;Illa de la Reunió
 RO;;Romania
 RU;;Federació Russa
-RW;;Rwanda
+RW;;Ruanda
 SA;;Aràbia Saudita
 SD;;Sudan
 SN;;Senegal
@@ -212,7 +212,7 @@ SE;;Suècia
 SZ;;Eswatini
 SX;;Sint Maarten (part neerlandesa)
 SC;;Seychelles
-SY;;República Àrab Síria
+SY;;Síria
 TC;;Illes Turks i Caicos
 TD;;Txad
 TG;;Togo
@@ -224,7 +224,7 @@ TL;;Timor Oriental
 TO;;Tonga
 TT;;Trinitat i Tobago
 TN;;Tunísia
-TR;;Türkiye
+TR;;Turquia
 TV;;Tuvalu
 TW;;Taiwan
 TZ;;Tanzània
@@ -244,6 +244,6 @@ VU;;Vanuatu
 WF;;Wallis i Futuna
 WS;;Samoa
 YE;;Iemen
-ZA;;Sudàfrica
+ZA;;Sud-àfrica
 ZM;;Zàmbia
-ZW;;Zimbabwe
+ZW;;Zimbàbue
